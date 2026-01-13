@@ -7,7 +7,7 @@ import keyboard
 print(color.rgb_text(255,105,180, "This is custom pink text"))
 print(style.bold_style("This is custom bold text"))
 print(color.rgb_text(255,105,180, style.bold_style("This is custom pink&bold text")))
-
+print("------- old one up here -------")
 print(color.rgb_text(100, 255, 100, "This is custom green text"))
 print(style.bold_style( "This is custom bold text"))
 print(style.italic_style( "This is custom bold text"))
