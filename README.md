@@ -1,5 +1,5 @@
-# color_lib is just temporary name 
-This was made to make my life simpler I was getting sick and tired of messing with different libraries.
+# What is stylelibray..
+Stylelibray is somethings that made to make my life simpler I was getting sick and tired of messing with different libraries.
 
 Now for the future of this I do plan on working on it not a lot but some stuff I plan on adding but basically this was made because I had a libraries didn't have readable text and I didn't like that.
 
